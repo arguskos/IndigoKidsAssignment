@@ -1,0 +1,19 @@
+[Tt]emp/
+[Ll]ibrary/
+
+# Visual Studio / MonoDevelop generated #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity3D genetated meta files #
+*.pibd.meta
+
+# Unity3D generated file on crash reports #
+sysinfo.txt
